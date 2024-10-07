@@ -29,8 +29,4 @@ To access the project, run the following command in the terminal:
 Then, open your browser and visit http://localhost:8000 to access the web.php file, where everything is displayed.
 
 - License
-<<<<<<< HEAD
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
-=======
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
->>>>>>> b725e04897ef8a6a9c7fe7a1fc758dc1fc3cd437
